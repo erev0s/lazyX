@@ -1,7 +1,7 @@
 # lazyX
 A simple and small python script to call [dex2jar](https://github.com/pxb1988/dex2jar) and then [cfr](http://www.benf.org/other/cfr/).
 
-It takes as an argument an apk and output the converted dex files to jar files and then feeds these jar files to cfr which decompiles them to Java.
+It takes as an argument an apk and outputs the converted dex files to jar files and then feeds these jar files to cfr which decompiles them to Java.
 
 
 
